@@ -8,4 +8,5 @@ To build the project you need maven. Run `maven install` to generate the .jar ex
 Run
 ---
 Run with the following arguments:
+
     java -jar ontologies-x.y.z-SNAPSHOT.jar <gridlabd csv file> <ontology input file> <ontology output file>
